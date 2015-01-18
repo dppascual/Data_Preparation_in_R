@@ -1,0 +1,9 @@
+Package: edist
+Type: Package
+Title: Euclidean distance between two vectors
+Version: 1.0
+Date: 2015-01-18
+Author: Daniel Pe<c3><b1>a
+Maintainer: Daniel Pe<c3><b1>a <daniel.pena@imdea.org>
+Description: Get shortest euclidean distance between two vectors in subset.
+License: GPL-2
