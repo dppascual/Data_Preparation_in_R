@@ -1,7 +1,3 @@
-# @dppascual
-#
-# JSON
-#
 # Notas generales
 
 La primera versión del programa supone que los datos obtenidos en JSON están completos. Para comprobar su funcionamiento,
