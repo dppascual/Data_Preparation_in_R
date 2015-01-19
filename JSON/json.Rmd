@@ -113,4 +113,4 @@ plot(x = ruta.df$longitude, y = ruta.df$latitude, xlab = "Longitud", ylab = "Lat
      axes = TRUE, col = "blue", cex = 0.75, pch = 16, main = paste("Línea:", line, " "))
 with(ruta.df, text(latitude~longitude, labels = ruta.df$name, cex = 0.5, pos = 1))
 lines(x = ruta.df$longitude, y = ruta.df$latitude)
-``
+```
